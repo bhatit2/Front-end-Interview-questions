@@ -45,6 +45,7 @@ Interview questions related to HTL5,CSS3,Javascript,Angularjs and bootstrap
 7) What are the different ways to create object in javascript?(Object literal notation,constructor function method, object.create method,etc)
 8) What is even bubbling, event capturing and event delegation?
 9) Explain different array methods.
+10) Write a function to get the sum of all the arguments. Count and type of arguments are unknown.
 
 # Angularjs interview questions
 1) what is angularjs? Why do we need angularjs?
