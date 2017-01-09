@@ -44,6 +44,25 @@ Interview questions related to HTL5,CSS3,Javascript,Angularjs and bootstrap
 6) Explain 'this' keyword in javascript.
 7) What are the different ways to create object in javascript?(Object literal notation,constructor function method, object.create method,etc)
 8) What is even bubbling, event capturing and event delegation?
+9) Explain different array methods.
+
+# Angular js interview questions
+1) what is angularjs? Why do we need angularjs?
+2) What are directves?
+3) What is scope?
+4) Explain dependency injection.
+5) How would you create a module in angularjs?
+6) Explain the difference between ng-if and ng-show.
+7) How would you craete a custom directive?
+8) Explain Directive definition Object.
+9) How would you create a custom filter?
+10) How would you bind an element with a scope value?
+12) What is ng-app?
+13) Difference betwen service, factory and providers.
+14) What is $http?
+15) Explain $q and promises?
+16) Create an angular app which will fetch some data from json file and display all the values. Also use an input search field which will filter the data based on the input value.
+17) Difference between isolated scope and inherited scope.
 
 # Bootstrap Interview questions
 1) What is Twitter Bootstrap? Why do we use it?
@@ -60,4 +79,3 @@ Interview questions related to HTL5,CSS3,Javascript,Angularjs and bootstrap
      g) glyphicon.
      h) nav
  6) Explain differnt button classes (btn, btn-primary, btn-success, btn-danger, btn-info, btn-warning, btn-default).
- 
