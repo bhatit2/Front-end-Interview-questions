@@ -46,7 +46,7 @@ Interview questions related to HTL5,CSS3,Javascript,Angularjs and bootstrap
 8) What is even bubbling, event capturing and event delegation?
 9) Explain different array methods.
 
-# Angular js interview questions
+# Angularjs interview questions
 1) what is angularjs? Why do we need angularjs?
 2) What are directves?
 3) What is scope?
