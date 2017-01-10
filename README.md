@@ -23,7 +23,7 @@ Interview questions related to HTL5,CSS3,Javascript,Angularjs and bootstrap
 5) Explain css selectors. What are the different types of selectors available?
 6) What are Psuedo selectors?
 7) Arrange the following selectors in the decreasing order of specificity : 
-    id, class, inline-style, element.
+    id, class, inline-style, element, !important.
 8) Explain display property. Difference between display inline and display inline-block?
 9) Explain the difference between display none and visibility hidden?
 10) Explain new features of CSS3.
@@ -33,7 +33,7 @@ Interview questions related to HTL5,CSS3,Javascript,Angularjs and bootstrap
 14) Explain css transition propety?
 15) Explain css gradients.
 16) How would you make a circle from a div. Explain border-radius property.
-17) How would you make an element lie at teh center of the screen. For eg: google home page.
+17) How would you make an element lie at the center of the screen. For eg: google home page.
 
 # Javascript Interview questions 
 1) Explain prototypal inheritance.
@@ -43,9 +43,14 @@ Interview questions related to HTL5,CSS3,Javascript,Angularjs and bootstrap
 5) Difference between call, apply and bind.
 6) Explain 'this' keyword in javascript.
 7) What are the different ways to create object in javascript?(Object literal notation,constructor function method, object.create method,etc)
-8) What is even bubbling, event capturing and event delegation?
+8) What is event bubbling, event capturing and event delegation?
 9) Explain different array methods.
 10) Write a function to get the sum of all the arguments. Count and type of arguments are unknown.
+11) What is deep copy?
+12) How would you clone an object?
+13) Difference between undefined and null.
+14) Explain automatic type conversion in javascript.
+15) Explain IIFE and anonymous function.
 
 # Angularjs interview questions
 1) what is angularjs? Why do we need angularjs?
