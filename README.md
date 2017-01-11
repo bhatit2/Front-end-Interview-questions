@@ -85,3 +85,26 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
      g) glyphicon.
      h) nav
 6. Explain different button classes (btn, btn-primary, btn-success, btn-danger, btn-info, btn-warning, btn-default).
+
+## Sass Interview questions
+1. What is Sass? Why do we use it?
+2. How would you nest selector within parent selector?
+3. How do you shim variable name into selectors in Sass?
+4. Explain Sass mixins. Why do we need it?
+5. Explain Extend directive. Why do we need it?
+6. Explain functions in Sass. Why do we need it?
+7. How do we pass variable arguments to mixins?
+8. What is the advantage of adding keyword arguments?
+9. Explain difference between mixin, function and extend directive.
+10. What is a placeholder selector?
+11. Enlist predefined Math utilities in Sass.
+12. Explain the followin Color Utility functions :
+     a) lighten
+     b) darken
+     c) saturate
+     d) desaturate
+     e) mix
+     f) grayscale
+     g) invert
+     h) complement
+13. How would you nest media queries within selectors?
