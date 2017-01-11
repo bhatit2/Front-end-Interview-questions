@@ -74,6 +74,8 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 19. How would you communicate bvetween 2 controllers?
 20. Explain $emit and $broadcast.
 21. Explain angularjs applications lifecycle.
+22. Explain transclusion.
+23. Explain $digest, $watch and $apply.
 
 ## Bootstrap Interview questions
 1. What is Twitter Bootstrap? Why do we use it?
