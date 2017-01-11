@@ -3,11 +3,11 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 
 ## HTML5 Interview questions
 1. What are the new HTML5 features?
-2. What is SEO(Search Engine Optimization)?
+2. What is SEO (Search Engine Optimization)?
 3. Advantages of semantic elements in HTML.
 4. Difference between inline and block level elements?
 5. What are the new input types introduced in HTML5?
-6. Differences between svg and canvas elements.
+6. Differences between SVG and canvas elements.
 7. Explain DOCTYPE in HTML.
 8. Difference between local storage, session storage and cookies.
 9. What are web sockets?
