@@ -71,6 +71,9 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 16. Create an angular app which will fetch some data from json file and display all the values. Also use an input search field which will filter the data based on the input value.
 17. Difference between isolated scope and inherited scope.
 18. Explain the differences between ui-route and ng-route.
+19. How would you communicate bvetween 2 controllers?
+20. Explain $emit and $broadcast.
+21. Explain angularjs applications lifecycle.
 
 ## Bootstrap Interview questions
 1. What is Twitter Bootstrap? Why do we use it?
