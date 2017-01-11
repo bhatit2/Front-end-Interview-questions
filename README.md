@@ -72,7 +72,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 17. Difference between isolated scope and inherited scope.
 18. Explain the differences between ui-route and ng-route.
 
-# Bootstrap Interview questions
+## Bootstrap Interview questions
 1. What is Twitter Bootstrap? Why do we use it?
 2. Explain grid system in bootstrap.
 3. What is gutter space? What is the value of gutter space between 2 grids?
