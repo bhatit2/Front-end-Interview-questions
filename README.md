@@ -61,7 +61,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
                 setTimeout(function(){console.log(i)}, 5);    
             }
         }
-    Fix the above function to log all the values of i.
+    Fix the above function to log correct values of i.
 
 ## Angularjs interview questions
 1. what is angularjs? Why do we need angularjs?
