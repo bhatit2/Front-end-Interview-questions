@@ -34,6 +34,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 15. Explain css gradients.
 16. How would you make a circle from a div. Explain border-radius property.
 17. How would you make an element lie at the center of the screen. For eg: google home page.
+18. Explain flexbox property.
 
 ## Javascript Interview questions
 1. Explain prototypal inheritance.
@@ -52,6 +53,14 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 14. Explain automatic type conversion in javascript.
 15. Explain IIFE and anonymous function.
 16. What is callback?
+17. What is a promise object? Why do we use it?
+18. Look at the function below : 
+        function timeOutCall(){
+            for(var i = 0; i < 4; i++){
+                setTimeout(function(){console.log(i)}, 5);    
+            }
+        }
+    Fix the above function to log all the values of i.
 
 ## Angularjs interview questions
 1. what is angularjs? Why do we need angularjs?
@@ -76,6 +85,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 21. Explain angularjs applications lifecycle.
 22. Explain transclusion.
 23. Explain $digest, $watch and $apply.
+24. Explain the difference between one way and two way data binding.
 
 ## Bootstrap Interview questions
 1. What is Twitter Bootstrap? Why do we use it?
