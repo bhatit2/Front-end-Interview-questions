@@ -17,11 +17,11 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 
 ## CSS3 Interview questions
 1. Explain CSS box model.
-2. Explain position property in css? What are the posible values of position property. Explain the usecase for each.
+2. Explain position property in css? What are the possible values of position property. Explain the use case for each.
 3. Explain box-sizing property. What are its possible values? If we set a fixed width and height of an element, what all properties will be included in that?
 4. Explain clearfix.
 5. Explain css selectors. What are the different types of selectors available?
-6. What are Psuedo selectors?
+6. What are Pseudo selectors?
 7. Arrange the following selectors in the decreasing order of specificity :
     id, class, inline-style, element, !important.
 8. Explain display property. Difference between display inline and display inline-block?
@@ -55,7 +55,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 15. Explain IIFE and anonymous function.
 16. What is callback?
 17. What is a promise object? Why do we use it?
-18. Look at the function below : 
+18. Look at the function below :
         function timeOutCall(){
             for(var i = 0; i < 4; i++){
                 setTimeout(function(){console.log(i)}, 5);    
@@ -63,8 +63,8 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
         }
     Fix the above function to log correct values of i.
 
-## Angularjs interview questions
-1. what is angularjs? Why do we need angularjs?
+## AngularJS interview questions
+1. What is angularjs? Why do we need angularjs?
 2. What are directives?
 3. What is scope?
 4. Explain dependency injection.
@@ -78,10 +78,10 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 13. Difference between service, factory and providers.
 14. What is $http?
 15. Explain $q and promises?
-16. Create an angular app which will fetch some data from json file and display all the values. Also use an input search field which will filter the data based on the input value.
+16. Create an angular app which will fetch some data from JSON file and display all the values. Also use an input search field which will filter the data based on the input value.
 17. Difference between isolated, shared and inherited scope.
 18. Explain the differences between ui-route and ng-route.
-19. How would you communicate bvetween 2 controllers?
+19. How would you communicate between 2 controllers?
 20. Explain $emit and $broadcast.
 21. Explain angularjs applications lifecycle.
 22. Explain transclusion.
