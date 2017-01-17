@@ -36,6 +36,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 17. How would you make an element lie at the center of the screen. For eg: google home page.
 18. Explain flexbox property.
 19. Explain the differences between fluid and responsive layout.
+20. Explain responsive metatag attributes.
 
 ## Javascript Interview questions
 1. Explain prototypal inheritance.
