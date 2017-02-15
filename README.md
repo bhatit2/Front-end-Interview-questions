@@ -14,6 +14,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 10. Explain Geolocation API in html.
 11. Explain following form attributes : Autofocus, required, pattern.
 12. Explain datalist.
+13. Explain HTML5 custom attributes.
 
 ## CSS3 Interview questions
 1. Explain CSS box model.
