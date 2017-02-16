@@ -57,15 +57,14 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
 15. Explain IIFE and anonymous function.
 16. What is callback?
 17. What is a promise object? Why do we use it?
-18. Look at the function below :
+18. Enlist all the falsy values in Javascript.
+19. Look at the function below :
         function timeOutCall(){
             for(var i = 0; i < 4; i++){
                 setTimeout(function(){console.log(i)}, 5);    
             }
         }
     Fix the above function to log correct values of i.
-    
- 19. Enlist all the falsy values in Javascript.
 
 ## AngularJS interview questions
 1. What is angularjs? Why do we need angularjs?
