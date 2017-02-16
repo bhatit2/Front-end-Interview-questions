@@ -64,6 +64,7 @@ Interview questions related to HTML5, CSS3, Javascript, Angularjs and bootstrap 
             }
         }
     Fix the above function to log correct values of i.
+    
  19. Enlist all the falsy values in Javascript.
 
 ## AngularJS interview questions
